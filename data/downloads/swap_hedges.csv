@@ -1,0 +1,7 @@
+swap_id,bucket,direction,maturity_years,notional_mn,fixed_rate_pct,dv01_eur
+SWAP_001,10Y,pay_fixed,10,743.3,2.867,743300.0
+SWAP_002,2Y,pay_fixed,2,434.7,2.625,86940.0
+SWAP_003,30Y,pay_fixed,25,1184.8,3.115,2962000.0
+SWAP_004,5Y,pay_fixed,5,1371.7,2.755,685850.0
+SWAP_005,5Y,pay_fixed,5,1746.0,2.439,873000.0
+SWAP_006,5Y,pay_fixed,5,1080.1,2.583,540050.0

@@ -1,0 +1,15 @@
+[project]
+name = "collateral-risk-monitor"
+version = "0.1.0"
+description = "DV01 hedging and margin stress simulation for EUR sovereign collateral books"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "numpy",
+    "requests",
+    "matplotlib",
+    "plotly",
+    "streamlit",
+    "scipy",
+    "streamlit-option-menu",
+]
