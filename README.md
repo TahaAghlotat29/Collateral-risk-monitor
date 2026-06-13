@@ -46,4 +46,6 @@ collateral-risk-monitor/
 ```bash
 uv sync
 uv run streamlit run app/dashboard.py
-Live dashboard: [collateral-risk-monitor.streamlit.app](https://collateral-risk-monitor-3amuqmdu53wgruejwfxjgg.streamlit.app/)```
+
+```
+Live dashboard: [collateral-risk-monitor.streamlit.app](https://collateral-risk-monitor-3amuqmdu53wgruejwfxjgg.streamlit.app/)
